@@ -10,8 +10,6 @@ con React Native, React Js y Flutter.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henryvyh&theme=dark)](https://git.io/streak-stats)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryvyh&show_icons=true&theme=transparent)
- 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryvyh&layout=compact)
