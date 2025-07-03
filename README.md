@@ -1,10 +1,7 @@
 
 # Hey, I'm Henry 👋
 
-Bachiller en Ingeniería de Sistemas de la Universidad Nacional José María Arguedas de la
-escuela profesional de Ingeniería de Sistemas, apasionado por el mundo de la programación
-con más 5 años de experiencia trabajando en dicho ámbito laboral como desarrollador Mobile
-con React Native, React Js y Flutter.
+Ingeniería de Sistemas, apasionado por el mundo de la programación con más 5 años de experiencia trabajando en dicho ámbito laboral como desarrollador Mobile con React Native, React Js y Flutter.
 
 # Github stats
 
