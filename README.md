@@ -8,7 +8,7 @@ con React Native, React Js y Flutter.
 
 # Github stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henryvyh)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henryvyh&theme=dark)](https://git.io/streak-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryvyh&show_icons=true&theme=transparent)
