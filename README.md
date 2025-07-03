@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**henryvyh/henryvyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Henry 👋
 
-Here are some ideas to get you started:
+Bachiller en Ingeniería de Sistemas de la Universidad Nacional José María Arguedas de la
+escuela profesional de Ingeniería de Sistemas, apasionado por el mundo de la programación
+con más 5 años de experiencia trabajando en dicho ámbito laboral como desarrollador Mobile
+con React Native, React Js y Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Github stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henryvyh)](https://git.io/streak-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryvyh&show_icons=true&theme=transparent)
+ 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryvyh&layout=compact)
